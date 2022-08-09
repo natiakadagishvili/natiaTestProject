@@ -1,2 +1,1 @@
-# natiaTestProject
-This is my first project :)
+https://natiakadagishvili.github.io/natiaTestProject/index.html
